@@ -1,4 +1,4 @@
-package com.cao.xinyao.guzhang;
+package com.cao.weibo;
 
 public class SHA1Utils {
 	private static final boolean hexcase = false;

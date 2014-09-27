@@ -1,4 +1,4 @@
-package com.cao.xinyao.guzhang;
+package com.cao.weibo;
 
 import org.apache.commons.lang.StringUtils;
 

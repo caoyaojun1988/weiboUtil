@@ -1,4 +1,4 @@
-package com.cao.xinyao.guzhang;
+package com.cao.weibo;
 
 import java.io.IOException;
 import java.io.InputStream;
